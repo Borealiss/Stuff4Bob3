@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/renegade/laat/wings"
+	//$bumpmap "models/renegade/laat/wings_n"
+	"$blendtintbybasealpha"	1
+	$halflambert 1
+	$nocull 1
+	$Normalmapalphaenvmapmask 1	
+
+    	$phong 1
+	$phongboost	1
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.8 0.8 0.8]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.08
+
+}
